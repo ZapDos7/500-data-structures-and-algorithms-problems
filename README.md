@@ -12,4 +12,4 @@
 002. [Find subarrays with zero sums](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 
 ## Begginer Problems
-- *One Loop Design*: print a star symbol in one loop
+- [One Loop Design](https://tausiq.wordpress.com/2009/08/21/one-loop-design/): print a star symbol in one loop
