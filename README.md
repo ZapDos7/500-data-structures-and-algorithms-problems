@@ -8,4 +8,8 @@
 4. Provide with input where needed & observe the result
 
 ## Problems
-1. Find a pair with the given sum in an array [source](https://www.techiedelight.com/find-pair-with-given-sum-array/)
+001. [Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)
+002. [Find subarrays with zero sums](http://www.techiedelight.com/find-sub-array-with-0-sum/)
+
+## Begginer Problems
+- *One Loop Design*: print a star symbol in one loop
