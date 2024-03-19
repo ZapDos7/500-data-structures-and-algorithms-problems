@@ -13,3 +13,8 @@
 
 ## Begginer Problems
 - [One Loop Design](https://tausiq.wordpress.com/2009/08/21/one-loop-design/): print a star symbol in one loop
+
+## TCEA: State 2007
+- [Training Times](https://tausiq.wordpress.com/2009/11/03/training-times/)
+- [Anything you can do, I can do better](https://tausiq.wordpress.com/2009/11/03/anything-you-can-do-i-can-do-better/)
+- [The next number](https://tausiq.wordpress.com/2009/11/10/the-next-number/)
