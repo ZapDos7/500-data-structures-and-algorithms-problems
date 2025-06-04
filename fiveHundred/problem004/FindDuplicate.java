@@ -1,5 +1,5 @@
 // Given a limited range array of size n containing elements between 1 and n-1 with one element repeating, find the duplicate number in it without using any extra space.
-package problem004;
+package fiveHundred.problem004;
 
 import java.util.HashMap;
 import java.util.List;

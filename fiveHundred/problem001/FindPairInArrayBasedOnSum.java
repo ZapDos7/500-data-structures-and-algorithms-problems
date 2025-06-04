@@ -1,5 +1,5 @@
 //Find a pair with the given sum in an array
-package problem001;
+package fiveHundred.problem001;
 
 import java.util.ArrayList;
 import java.util.Collections;

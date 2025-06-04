@@ -512,9 +512,14 @@
 
 ### Interview Questions
 - [x] [Java: Tricky Interview Problems](https://medium.com/@abhishek.talakeriv/java-tricky-interview-questions-fe3aa2b71c0b)
-- [x] Find least amount of coins needed for an amount
+- [x] Find the least amount of coins needed for an amount
 - [x] FizzBuzz
 - [x] Print the Fibonacci sequence
+- [ ] Find the middle element of a linked list
+- [ ] Implement a stack using two queues
+- [ ] Find the first duplicate in an array
+- [ ] Solve the producer-consumer problem using multithreading
+- [ ] Implement a cache using a HashMap
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)

@@ -1,5 +1,5 @@
 // Given an integer array, find the largest subarray formed by consecutive integers. The subarray should contain all distinct values.
-package problem005;
+package fiveHundred.problem005;
 
 import java.util.HashSet;
 import java.util.List;
