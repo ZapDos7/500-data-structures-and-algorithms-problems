@@ -507,8 +507,14 @@
 - [ ] [Magnet Puzzle](http://www.techiedelight.com/magnet-puzzle/)
 ##### [source](https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
 
-### [Begginer Problems](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
+### [Problems](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 - [x] [One Loop Design](https://tausiq.wordpress.com/2009/08/21/one-loop-design/): print a star symbol in one loop
+- [Collections](https://www.linkedin.com/learning/java-practice-collections/)
+  - [x] Occurrences of a word in a string
+  - [x] Reverse order of a list
+  - [x] Calculate average in list
+  - [x] Words with 5 or fewer characters
+  - [x] Indices of sum
 
 ### Interview Questions
 - [x] [Java: Tricky Interview Problems](https://medium.com/@abhishek.talakeriv/java-tricky-interview-questions-fe3aa2b71c0b)
@@ -581,6 +587,7 @@
   - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+  - [x] Longest substring without repeating characters (micro1)
 - Tree
   - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
@@ -597,6 +604,18 @@
   - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
   - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- Multithreading & Concurrency
+  - [ ] Implement a thread-safe singleton class.
+  - [ ] Write a program to demonstrate the use of synchronized blocks to achieve thread safety.
+  - [ ] Implement a producer-consumer problem using wait() and notify() methods.
+  - [ ] Java’s ExecutorService to execute a list of tasks concurrently.
+  - [ ] Implement a thread-safe cache using ConcurrentHashMap.
+  - [ ] Write a program to demonstrate the use of atomic variables for thread-safe operations.
+  - [ ] Implement a deadlock scenario and explain how to avoid it.
+  - [ ] Use Java’s Lock interface to implement a custom lock for thread synchronization. 
+  - [ ] Implement a thread-safe queue using BlockingQueue. 
+  - [ ] Write a program to demonstrate the use of CompletableFuture for asynchronous programming.
+
 
 ### TCEA: State 2007
 - [x] [Training Times](https://tausiq.wordpress.com/2009/11/03/training-times/)
