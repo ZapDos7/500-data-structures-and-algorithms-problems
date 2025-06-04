@@ -1,4 +1,5 @@
 // Given a binary array, sort it in linear time and constant space. The output should print all zeros, followed by all ones.
+package problem003;
 
 import java.util.*;
 import java.util.stream.*;
