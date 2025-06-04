@@ -505,6 +505,7 @@
 000. [Multiply two numbers without using multiplication operator or loops](http://www.techiedelight.com/multiply-two-numbers-without-using-multiplication-operator-loops/)
 000. [Find square of a number without using multiplication and division operator | 3 methods](http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/)
 000. [Magnet Puzzle</span></u></span></font></font></font></span></a></p>](http://www.techiedelight.com/magnet-puzzle/)
+##### [source](https://kingrayhan.medium.com/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
 
 ## [Begginer Problems](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 - [One Loop Design](https://tausiq.wordpress.com/2009/08/21/one-loop-design/): print a star symbol in one loop
