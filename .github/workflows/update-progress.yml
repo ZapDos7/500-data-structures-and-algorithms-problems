@@ -3,9 +3,8 @@ name: Update Progress in Markdown
 on:
   push:
     paths:
-      - '**.md'
-  schedule:
-    - cron: '0 * * * *'  # every hour
+      - '**.md' # trigger when .md file is updated
+      - update_progress.py  # rerun if script is updated
 
 jobs:
   update:
@@ -20,8 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run update script
-        run: |
-          python update_progress.py
+        run: python update_progress.py
 
       - name: Commit changes
         run: |
