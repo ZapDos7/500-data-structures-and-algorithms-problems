@@ -10,6 +10,7 @@
 ## Problems
 001. [Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)
 002. [Find subarrays with zero sums](http://www.techiedelight.com/find-sub-array-with-0-sum/)
+003. [Sort binary array in linear time](https://www.techiedelight.com/sort-binary-array-linear-time/) 
 
 ## [Begginer Problems](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 - [One Loop Design](https://tausiq.wordpress.com/2009/08/21/one-loop-design/): print a star symbol in one loop
