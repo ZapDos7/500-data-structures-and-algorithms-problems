@@ -537,8 +537,7 @@
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - Bits
-  - [ ] [Sum of two ints](https://leetcode.com/problems/sum-of-two-integers/) 
-  - [ ] [# of bits w value 1](https://leetcode.com/problems/number-of-1-bits/)
+  - [x] [# of bits w value 1](https://leetcode.com/problems/number-of-1-bits/)
   - [ ] [Counting bits](https://leetcode.com/problems/counting-bits/)
   - [ ] [Missing number](https://leetcode.com/problems/missing-number/)
   - [ ] [Reverse bits](https://leetcode.com/problems/reverse-bits/)
