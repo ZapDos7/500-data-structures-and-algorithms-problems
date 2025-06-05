@@ -3,8 +3,11 @@ name: Update Progress in Markdown
 on:
   push:
     paths:
-      - '**.md' # trigger when .md file is updated
-      - update_progress.py  # rerun if script is updated
+      - '**.md'
+      - update_progress.py
+
+permissions:
+  contents: write
 
 jobs:
   update:
