@@ -554,6 +554,15 @@
   - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
   - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 - Graphs
+  - [ ] Given a list of edges and tasked to build your own graph from the edges 
+  - [ ] Implement BFS
+  - [ ] Implement DFS
+  - [ ] Implement Dijkstra’s algorithm
+  - [ ] Implement Topological sort
+  - [ ] Implement Bellman-Ford algorithm
+  - [ ] Implement Floyd-Warshall algorithm
+  - [ ] Implement Prim’s algorithm
+  - [ ] Implement Kruskal’s algorithm
   - [ ] [Clone graph](https://leetcode.com/problems/clone-graph/)
   - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
   - [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
