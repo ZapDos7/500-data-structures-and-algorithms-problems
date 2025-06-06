@@ -1,5 +1,5 @@
 // Given a binary array, sort it in linear time and constant space. The output should print all zeros, followed by all ones.
-package problems.fiveHundred.problem003;
+package problems.problem003;
 
 import java.util.*;
 import java.util.stream.*;

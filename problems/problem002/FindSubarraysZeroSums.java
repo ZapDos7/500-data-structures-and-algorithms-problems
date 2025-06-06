@@ -1,5 +1,5 @@
 // Given an integer array, print all subarrays with zero-sum (contiguous elemenets).
-package problems.fiveHundred.problem002;
+package problems.problem002;
 
 import java.util.ArrayList;
 import java.util.List;
