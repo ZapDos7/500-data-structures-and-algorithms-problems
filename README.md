@@ -8,6 +8,8 @@
 4. Provide with input where needed & observe the result
 
 ## Problems
+
+### Array
 - [x] [001. Find a pair with the given sum in an array](https://www.techiedelight.com/find-pair-with-given-sum-array/)
 - [x] [002. Find subarrays with zero sums](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 - [x] [003. Sort binary array in linear time](https://www.techiedelight.com/sort-binary-array-linear-time/) 
@@ -60,9 +62,9 @@
 - [ ] [Find K’th smallest element in an array](http://www.techiedelight.com/find-kth-smallest-element-array/)
 - [ ] [Find smallest range with at-least one element from each of the given lists](http://www.techiedelight.com/find-smallest-range-least-one-element-given-lists/)
 - [ ] [Merge M sorted lists each containing N elements](http://www.techiedelight.com/merge-m-sorted-lists-containing-n-elements/)
-- [ ] [Insertion sort | Iterative &amp; Recursive](http://www.techiedelight.com/insertion-sort-iterative-recursive/)
-- [ ] [Selection sort | Iterative &amp; Recursive](http://www.techiedelight.com/selection-sort-iterative-recursive/)
-- [ ] [Bubble sort | Iterative &amp; Recursive](http://www.techiedelight.com/bubble-sort-iterative-recursive/)
+- [ ] [Insertion sort | Iterative & Recursive](http://www.techiedelight.com/insertion-sort-iterative-recursive/)
+- [ ] [Selection sort | Iterative & Recursive](http://www.techiedelight.com/selection-sort-iterative-recursive/)
+- [ ] [Bubble sort | Iterative & Recursive](http://www.techiedelight.com/bubble-sort-iterative-recursive/)
 - [ ] [Merge Sort](http://www.techiedelight.com/merge-sort/)
 - [ ] [Quicksort](http://www.techiedelight.com/quicksort/)
 - [ ] [Iterative Implementation of Quicksort](http://www.techiedelight.com/iterative-implementation-of-quicksort/)
@@ -85,11 +87,11 @@
 - [ ] [Search in a nearly sorted array in O(logn) time](http://www.techiedelight.com/search-nearly-sorted-array-ologn-time/)
 - [ ] [Find number of 1’s in a sorted binary array](http://www.techiedelight.com/find-number-1s-sorted-binary-array/)
 - [ ] [Find the peak element in an array](http://www.techiedelight.com/find-peak-element-array/)
-- [ ] [Maximum Sum Subarray using Divide &amp; Conquer](http://www.techiedelight.com/maximum-sum-subarray-using-divide-conquer/)
+- [ ] [Maximum Sum Subarray using Divide & Conquer](http://www.techiedelight.com/maximum-sum-subarray-using-divide-conquer/)
 - [ ] [Find Minimum and Maximum element in an array using minimum comparisons](http://www.techiedelight.com/find-minimum-maximum-element-array-using-minimum-comparisons/)
 - [ ] [Matrix Chain Multiplication](http://www.techiedelight.com/matrix-chain-multiplication/)
 - [ ] [0–1 Knapsack problem](http://www.techiedelight.com/0-1-knapsack-problem/)
-- [ ] [Maximize value of the expression A[s] — A[r] + A[q] — A[p] where s &gt; r &gt; q &gt; p](http://www.techiedelight.com/maximize-value-of-the-expression/)
+- [ ] [Maximize value of the expression A[s] — A[r] + A[q] — A[p] where s >; r >; q >; p](http://www.techiedelight.com/maximize-value-of-the-expression/)
 - [ ] [Partition problem](http://www.techiedelight.com/partition-problem/)
 - [ ] [Subset sum problem](http://www.techiedelight.com/subset-sum-problem/)
 - [ ] [Minimum Sum Partition problem](http://www.techiedelight.com/minimum-sum-partition-problem/)
@@ -100,6 +102,9 @@
 - [ ] [Combinations of words formed by replacing given numbers with corresponding English alphabets](http://www.techiedelight.com/combinations-of-words-formed-replacing-given-numbers-corresponding-english-alphabet/)
 - [ ] [Decode the given sequence to construct minimum number without repeated digits](http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/)
 - [ ] [All combinations of elements satisfiying given constraints](http://www.techiedelight.com/find-combinations-of-elements-satisfies-given-constraints/)
+
+
+### Backtracking
 - [ ] [Print all possible solutions to N Queens problem](http://www.techiedelight.com/print-possible-solutions-n-queens-problem/)
 - [ ] [Print all Possible Knight’s Tours in a chessboard](http://www.techiedelight.com/print-possible-knights-tours-chessboard/)
 - [ ] [Magnet Puzzle](http://www.techiedelight.com/magnet-puzzle/)
@@ -112,6 +117,9 @@
 - [ ] [Find all Permutations of a given string](http://www.techiedelight.com/find-permutations-given-string/)
 - [ ] [All combinations of elements satisfiying given constraints](http://www.techiedelight.com/find-combinations-of-elements-satisfies-given-constraints/)
 - [ ] [Find all binary strings that can be formed from given wildcard pattern](http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/)
+ 
+
+### Binary
 - [ ] [Bit Hacks — Part 1 (Basic)](http://www.techiedelight.com/bit-hacks-part-1-basic/)
 - [ ] [Bit Hacks — Part 2 (Playing with k’th bit)](http://www.techiedelight.com/bit-hacks-part-2-playing-kth-bit/)
 - [ ] [Bit Hacks — Part 3 (Playing with rightmost set bit of a number)](http://www.techiedelight.com/bit-hacks-part-3-playing-rightmost-set-bit-number/)
@@ -132,12 +140,14 @@
 - [ ] [Find square of a number without using multiplication and division operator | 3 methods](http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/)
 - [ ] [Generate power set of a given set](http://www.techiedelight.com/generate-power-set-given-set/)
 - [ ] [Huffman Coding](http://www.techiedelight.com/huffman-coding/)
-- [ ] [Check if two given binary trees are identical or not | Iterative &amp; Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
-- [ ] [Calculate height of a binary tree | Iterative &amp; Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
-- [ ] [Delete given Binary Tree | Iterative &amp; Recursive](http://www.techiedelight.com/delete-given-binary-tree-iterative-recursive/)
-- [ ] [Inorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
-- [ ] [Preorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
-- [ ] [Postorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
+
+### Binary Tree
+- [ ] [Check if two given binary trees are identical or not | Iterative & Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
+- [ ] [Calculate height of a binary tree | Iterative & Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
+- [ ] [Delete given Binary Tree | Iterative & Recursive](http://www.techiedelight.com/delete-given-binary-tree-iterative-recursive/)
+- [ ] [Inorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
+- [ ] [Preorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
+- [ ] [Postorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
 - [ ] [Level Order Traversal of Binary Tree](http://www.techiedelight.com/level-order-traversal-binary-tree/)
 - [ ] [Spiral Order Traversal of Binary Tree](http://www.techiedelight.com/spiral-order-traversal-binary-tree/)
 - [ ] [Reverse Level Order Traversal of Binary Tree](http://www.techiedelight.com/reverse-level-order-traversal-binary-tree/)
@@ -156,7 +166,7 @@
 - [ ] [Find diameter of a binary tree](http://www.techiedelight.com/find-diameter-of-a-binary-tree/)
 - [ ] [Check if given binary Tree has symmetric structure or not](http://www.techiedelight.com/check-given-binary-tree-symmetric-structure-not/)
 - [ ] [Convert binary tree to its mirror](http://www.techiedelight.com/convert-binary-tree-to-its-mirror/)
-- [ ] [Check if binary tree can be converted to another by doing any no. of swaps of left &amp; right child](http://www.techiedelight.com/determine-binary-tree-can-converted-another-number-swaps-left-right-child/)
+- [ ] [Check if binary tree can be converted to another by doing any no. of swaps of left & right child](http://www.techiedelight.com/determine-binary-tree-can-converted-another-number-swaps-left-right-child/)
 - [ ] [Find Lowest Common Ancestor (LCA) of two nodes in a binary tree](http://www.techiedelight.com/find-lowest-common-ancestor-lca-two-nodes-binary-tree/)
 - [ ] [Print all paths from root to leaf nodes in given binary tree](http://www.techiedelight.com/print-all-paths-from-root-to-leaf-nodes-binary-tree/)
 - [ ] [Find ancestors of given node in a Binary Tree](http://www.techiedelight.com/find-ancestors-of-given-node-binary-tree/)
@@ -173,6 +183,9 @@
 - [ ] [Find maximum sum root-to-leaf path in a binary tree](http://www.techiedelight.com/find-maximum-sum-root-to-leaf-path-binary-tree/)
 - [ ] [Check if given binary tree is height balanced or not](http://www.techiedelight.com/check-given-binary-tree-is-height-balanced-not/)
 - [ ] [Determine if given Binary Tree is a BST or not](http://www.techiedelight.com/determine-given-binary-tree-is-a-bst-or-not/)
+
+
+### Binary Search Tree (BST)
 - [ ] [Insertion in BST](http://www.techiedelight.com/insertion-in-bst/)
 - [ ] [Search given key in BST](http://www.techiedelight.com/search-given-key-in-bst/)
 - [ ] [Deletion from BST](http://www.techiedelight.com/deletion-from-bst/)
@@ -184,6 +197,8 @@
 - [ ] [Find K’th smallest and K’th largest element in BST](http://www.techiedelight.com/find-kth-smallest-largest-element-bst/)
 - [ ] [Floor and Ceil in a Binary Search Tree](http://www.techiedelight.com/floor-ceil-bst-iterative-recursive/)
 - [ ] [Find optimal cost to construct binary search tree](http://www.techiedelight.com/find-optimal-cost-to-construct-binary-search-tree/)
+
+### Divide & Conquer
 - [ ] [Binary Search](http://www.techiedelight.com/binary-search/)
 - [ ] [Ternary Search vs Binary search](http://www.techiedelight.com/ternary-search-vs-binary-search/)
 - [ ] [Exponential search](http://www.techiedelight.com/exponential-search/)
@@ -197,7 +212,7 @@
 - [ ] [Search in a nearly sorted array in O(logn) time](http://www.techiedelight.com/search-nearly-sorted-array-ologn-time/)
 - [ ] [Find number of 1’s in a sorted binary array](http://www.techiedelight.com/find-number-1s-sorted-binary-array/)
 - [ ] [Find the peak element in an array](http://www.techiedelight.com/find-peak-element-array/)
-- [ ] [Maximum Sum Subarray using Divide &amp; Conquer](http://www.techiedelight.com/maximum-sum-subarray-using-divide-conquer/)
+- [ ] [Maximum Sum Subarray using Divide & Conquer](http://www.techiedelight.com/maximum-sum-subarray-using-divide-conquer/)
 - [ ] [Find Minimum and Maximum element in an array using minimum comparisons](http://www.techiedelight.com/find-minimum-maximum-element-array-using-minimum-comparisons/)
 - [ ] [Efficiently implement power function | Recursive and Iterative](http://www.techiedelight.com/power-function-implementation-recursive-iterative/)
 - [ ] [Merge Sort](http://www.techiedelight.com/merge-sort/)
@@ -206,15 +221,18 @@
 - [ ] [Quicksort](http://www.techiedelight.com/quicksort/)
 - [ ] [Iterative Implementation of Quicksort](http://www.techiedelight.com/iterative-implementation-of-quicksort/)
 - [ ] [Hybrid QuickSort](http://www.techiedelight.com/hybrid-quicksort/)
+
+
+### Dynamic Programming
 - [ ] [Introduction to Dynamic Programming](http://www.techiedelight.com/introduction-dynamic-programming/)
-- [ ] [Longest Common Subsequence | Introduction &amp; LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
+- [ ] [Longest Common Subsequence | Introduction & LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
 - [ ] [Longest Common Subsequence | Space optimized version](http://www.techiedelight.com/longest-common-subsequence-lcs-space-optimized-version/)
 - [ ] [Longest Common Subsequence of K-sequences](http://www.techiedelight.com/longest-common-subsequence-of-k-sequences/)
 - [ ] [Longest Common Subsequence | Finding all LCS](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
 - [ ] [Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)
 - [ ] [Longest Palindromic Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
 - [ ] [Longest Repeated Subsequence problem](http://www.techiedelight.com/longest-repeated-subsequence-problem/)
-- [ ] [Shortest Common Supersequence | Introduction &amp; SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
+- [ ] [Shortest Common Supersequence | Introduction & SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
 - [ ] [Shortest Common Supersequence | Finding all SCS](http://www.techiedelight.com/shortest-common-supersequence-finding-scs/)
 - [ ] [Shortest Common Supersequence | Using LCS](http://www.techiedelight.com/shortest-common-supersequence-using-lcs/)
 - [ ] [Longest Increasing Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-increasing-subsequence-using-dynamic-programming/)
@@ -227,7 +245,7 @@
 - [ ] [Find longest sequence formed by adjacent numbers in the matrix](http://www.techiedelight.com/find-longest-sequence-formed-adjacent-numbers-matrix/)
 - [ ] [Count number of paths in a matrix with given cost to reach destination cell](http://www.techiedelight.com/counting-paths-on-grid-to-reach-destination-cell/)
 - [ ] [0–1 Knapsack problem](http://www.techiedelight.com/0-1-knapsack-problem/)
-- [ ] [Maximize value of the expression A[s] — A[r] + A[q] — A[p] where s &gt; r &gt; q &gt; p](http://www.techiedelight.com/maximize-value-of-the-expression/)
+- [ ] [Maximize value of the expression A[s] — A[r] + A[q] — A[p] where s >; r >; q >; p](http://www.techiedelight.com/maximize-value-of-the-expression/)
 - [ ] [Partition problem](http://www.techiedelight.com/partition-problem/)
 - [ ] [Subset sum problem](http://www.techiedelight.com/subset-sum-problem/)
 - [ ] [Minimum Sum Partition problem](http://www.techiedelight.com/minimum-sum-partition-problem/)
@@ -251,11 +269,13 @@
 - [ ] [Maximum subarray problem (Kadane’s algorithm)](http://www.techiedelight.com/maximum-subarray-problem-kadanes-algorithm/)
 - [ ] [Single-Source Shortest Paths — Bellman Ford Algorithm](http://www.techiedelight.com/single-source-shortest-paths-bellman-ford-algorithm/)
 - [ ] [All-Pairs Shortest Paths — Floyd Warshall Algorithm](http://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/)
+
+### Graphs
 - [ ] [Terminology and Representations of Graphs](http://www.techiedelight.com/terminology-and-representations-of-graphs/)
 - [ ] [Graph Implementation using STL](http://www.techiedelight.com/graph-implementation-using-stl/)
 - [ ] [Graph Implementation in C++ without using STL](http://www.techiedelight.com/graph-implementation-c-without-using-stl/)
-- [ ] [Breadth First Search (BFS) | Iterative &amp; Recursive Implementation](http://www.techiedelight.com/breadth-first-search/)
-- [ ] [Depth First Search (DFS) | Iterative &amp; Recursive Implementation](http://www.techiedelight.com/depth-first-search/)
+- [ ] [Breadth First Search (BFS) | Iterative & Recursive Implementation](http://www.techiedelight.com/breadth-first-search/)
+- [ ] [Depth First Search (DFS) | Iterative & Recursive Implementation](http://www.techiedelight.com/depth-first-search/)
 - [ ] [Arrival and Departure Time of Vertices in DFS](http://www.techiedelight.com/arrival-departure-time-vertices-dfs/)
 - [ ] [Types of edges involved in DFS and relation between them](http://www.techiedelight.com/types-edges-involved-dfs-relation/)
 - [ ] [Bipartite Graph](http://www.techiedelight.com/bipartite-graph/)
@@ -280,6 +300,8 @@
 - [ ] [Print all k-colorable configurations of the graph (Vertex coloring of graph)](http://www.techiedelight.com/print-k-colorable-configurations-graph-vertex-coloring-graph/)
 - [ ] [Print All Hamiltonian Path present in a graph](http://www.techiedelight.com/print-all-hamiltonian-path-present-in-a-graph/)
 - [ ] [Greedy coloring of graph](http://www.techiedelight.com/greedy-coloring-graph/)
+
+### Heaps
 - [ ] [Introduction to Priority Queues using Binary Heaps](http://www.techiedelight.com/introduction-priority-queues-using-binary-heaps/)
 - [ ] [Min Heap and Max Heap Implementation in C++](http://www.techiedelight.com/min-heap-max-heap-implementation-c/)
 - [ ] [Heap Sort (Out-of-place and In-place implementation in C++ and C)](http://www.techiedelight.com/heap-sort-place-place-implementation-c-c/)
@@ -295,6 +317,8 @@
 - [ ] [Huffman Coding](http://www.techiedelight.com/huffman-coding/)
 - [ ] [Find first k maximum occurring words in given set of strings](http://www.techiedelight.com/find-first-k-maximum-occurring-words-given-set-strings/)
 - [ ] [Find first k non-repeating characters in a string in single traversal](http://www.techiedelight.com/first-k-non-repeating-characters-string/)
+
+### Linked List
 - [ ] [Introduction to Linked Lists](http://www.techiedelight.com/introduction-linked-lists/)
 - [ ] [Linked List Implementation | Part 1](http://www.techiedelight.com/linked-list-implementation-part-1/)
 - [ ] [Linked List Implementation | Part 2](http://www.techiedelight.com/linked-list-implementation-part-2/)
@@ -325,6 +349,8 @@
 - [ ] [Move last node to front in a given Linked List](http://www.techiedelight.com/move-last-node-to-front-linked-list/)
 - [ ] [Rearrange the linked list in specific manner](http://www.techiedelight.com/rearrange-the-linked-list-specific-manner/)
 - [ ] [Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm)](http://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
+
+### Matrix
 - [ ] [Print Matrix in Spiral Order](http://www.techiedelight.com/print-matrix-spiral-order/)
 - [ ] [Create Spiral Matrix from given array](http://www.techiedelight.com/create-spiral-matrix-given-array/)
 - [ ] [Shift all matrix elements by 1 in Spiral Order](http://www.techiedelight.com/shift-matrix-elements-1-spiral-order/)
@@ -352,6 +378,8 @@
 - [ ] [Find the minimum cost to reach last cell of the matrix from its first cell](http://www.techiedelight.com/find-minimum-cost-reach-last-cell-matrix-first-cell/)
 - [ ] [Matrix Chain Multiplication](http://www.techiedelight.com/matrix-chain-multiplication/)
 - [ ] [Find size of largest square sub-matrix of 1’s present in given binary matrix](http://www.techiedelight.com/find-size-largest-square-sub-matrix-1s-present-given-binary-matrix/)
+
+### Queue
 - [ ] [Chess Knight Problem — Find Shortest path from source to destination](http://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/)
 - [ ] [Find Duplicate rows in a binary matrix](http://www.techiedelight.com/find-duplicate-rows-binary-matrix/)
 - [ ] [Print all possible solutions to N Queens problem](http://www.techiedelight.com/print-possible-solutions-n-queens-problem/)
@@ -365,8 +393,8 @@
 - [ ] [Count the number of islands](http://www.techiedelight.com/count-the-number-of-islands/)
 - [ ] [Find Shortest path from source to destination in a matrix that satisfies given constraints](http://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/)
 - [ ] [Generate binary numbers between 1 to N](http://www.techiedelight.com/generate-binary-numbers-1-n/)
-- [ ] [Calculate height of a binary tree | Iterative &amp; Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
-- [ ] [Delete given Binary Tree | Iterative &amp; Recursive](http://www.techiedelight.com/delete-given-binary-tree-iterative-recursive/)
+- [ ] [Calculate height of a binary tree | Iterative & Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
+- [ ] [Delete given Binary Tree | Iterative & Recursive](http://www.techiedelight.com/delete-given-binary-tree-iterative-recursive/)
 - [ ] [Level Order Traversal of Binary Tree](http://www.techiedelight.com/level-order-traversal-binary-tree/)
 - [ ] [Spiral Order Traversal of Binary Tree](http://www.techiedelight.com/spiral-order-traversal-binary-tree/)
 - [ ] [Reverse Level Order Traversal of Binary Tree](http://www.techiedelight.com/reverse-level-order-traversal-binary-tree/)
@@ -376,12 +404,14 @@
 - [ ] [Check if given binary tree is complete binary tree or not](http://www.techiedelight.com/check-given-binary-tree-complete-binary-tree-not/)
 - [ ] [Print Diagonal Traversal of Binary Tree](http://www.techiedelight.com/print-diagonal-traversal-binary-tree/)
 - [ ] [Print corner nodes of every level in binary tree](http://www.techiedelight.com/print-corner-nodes-every-level-binary-tree/)
-- [ ] [Breadth First Search (BFS) | Iterative &amp; Recursive Implementation](http://www.techiedelight.com/breadth-first-search/)
+- [ ] [Breadth First Search (BFS) | Iterative & Recursive Implementation](http://www.techiedelight.com/breadth-first-search/)
 - [ ] [Minimum number of throws required to win Snake and Ladder game](http://www.techiedelight.com/min-throws-required-to-win-snake-and-ladder-game/)
 - [ ] [Check if an undirected graph contains cycle or not](http://www.techiedelight.com/check-undirected-graph-contains-cycle-not/)
-- [ ] [Insertion sort | Iterative &amp; Recursive](http://www.techiedelight.com/insertion-sort-iterative-recursive/)
-- [ ] [Selection sort | Iterative &amp; Recursive](http://www.techiedelight.com/selection-sort-iterative-recursive/)
-- [ ] [Bubble sort | Iterative &amp; Recursive](http://www.techiedelight.com/bubble-sort-iterative-recursive/)
+
+### Sorting
+- [ ] [Insertion sort | Iterative & Recursive](http://www.techiedelight.com/insertion-sort-iterative-recursive/)
+- [ ] [Selection sort | Iterative & Recursive](http://www.techiedelight.com/selection-sort-iterative-recursive/)
+- [ ] [Bubble sort | Iterative & Recursive](http://www.techiedelight.com/bubble-sort-iterative-recursive/)
 - [ ] [Merge Sort](http://www.techiedelight.com/merge-sort/)
 - [ ] [Quicksort](http://www.techiedelight.com/quicksort/)
 - [ ] [Iterative Implementation of Quicksort](http://www.techiedelight.com/iterative-implementation-of-quicksort/)
@@ -413,19 +443,23 @@
 - [ ] [Find all distinct combinations of given length](http://www.techiedelight.com/find-distinct-combinations-of-given-length/)
 - [ ] [Find all distinct combinations of given length with repetition allowed](http://www.techiedelight.com/find-distinct-combinations-given-length-repetition-allowed/)
 - [ ] [Merging Overlapping Intervals](http://www.techiedelight.com/merging-overlapping-intervals)
+
+### Stack
 - [ ] [Check if given expression is balanced expression or not](http://www.techiedelight.com/check-given-expression-balanced-expression-not/)
 - [ ] [Find duplicate parenthesis in an expression](http://www.techiedelight.com/find-duplicate-parenthesis-expression/)
 - [ ] [Evaluate given postfix expression](http://www.techiedelight.com/evaluate-given-postfix-expression/)
 - [ ] [Decode the given sequence to construct minimum number without repeated digits](http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/)
-- [ ] [Inorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
-- [ ] [Preorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
-- [ ] [Postorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
+- [ ] [Inorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
+- [ ] [Preorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
+- [ ] [Postorder Tree Traversal | Iterative & Recursive](http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
 - [ ] [Find ancestors of given node in a Binary Tree](http://www.techiedelight.com/find-ancestors-of-given-node-binary-tree/)
-- [ ] [Check if two given binary trees are identical or not | Iterative &amp; Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
+- [ ] [Check if two given binary trees are identical or not | Iterative & Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
 - [ ] [Reverse given text without reversing the individual words](http://www.techiedelight.com/reverse-text-without-reversing-individual-words/)
 - [ ] [Find all binary strings that can be formed from given wildcard pattern](http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/)
 - [ ] [Iterative Implementation of Quicksort](http://www.techiedelight.com/iterative-implementation-of-quicksort/)
-- [ ] [Depth First Search (DFS) | Iterative &amp; Recursive Implementation](http://www.techiedelight.com/depth-first-search/)
+- [ ] [Depth First Search (DFS) | Iterative & Recursive Implementation](http://www.techiedelight.com/depth-first-search/)
+
+### String
 - [ ] [Check if given set of moves is circular or not](http://www.techiedelight.com/check-given-set-moves-circular-not/)
 - [ ] [Check if given string is a rotated palindrome or not](http://www.techiedelight.com/check-given-string-rotated-palindrome-not/)
 - [ ] [Longest Palindromic Substring (Non-DP Space Optimized Solution)](http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
@@ -467,16 +501,18 @@
 - [ ] [Wildcard Pattern Matching](http://www.techiedelight.com/wildcard-pattern-matching/)
 - [ ] [Count number of times a pattern appears in given string as a subsequence](http://www.techiedelight.com/count-number-times-pattern-appears-given-string-subsequence/)
 - [ ] [The Levenshtein distance (Edit distance) problem](http://www.techiedelight.com/levenshtein-distance-edit-distance-problem/)
-- [ ] [Longest Common Subsequence | Introduction &amp; LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
+- [ ] [Longest Common Subsequence | Introduction & LCS Length](http://www.techiedelight.com/longest-common-subsequence/)
 - [ ] [Longest Common Subsequence | Space optimized version](http://www.techiedelight.com/longest-common-subsequence-lcs-space-optimized-version/)
 - [ ] [Longest Common Subsequence of K-sequences](http://www.techiedelight.com/longest-common-subsequence-of-k-sequences/)
 - [ ] [Longest Common Subsequence | Finding all LCS](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
 - [ ] [Longest Repeated Subsequence problem](http://www.techiedelight.com/longest-repeated-subsequence-problem/)
 - [ ] [Longest Palindromic Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
 - [ ] [Longest Common Substring problem](http://www.techiedelight.com/longest-common-substring-problem/)
-- [ ] [Shortest Common Supersequence | Introduction &amp; SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
+- [ ] [Shortest Common Supersequence | Introduction & SCS Length](http://www.techiedelight.com/shortest-common-supersequence-introduction-scs-length/)
 - [ ] [Shortest Common Supersequence | Finding all SCS](http://www.techiedelight.com/shortest-common-supersequence-finding-scs/)
 - [ ] [Shortest Common Supersequence | Using LCS](http://www.techiedelight.com/shortest-common-supersequence-using-lcs/)
+
+### Trie
 - [ ] [Trie Implementation | Insert, Search and Delete](http://www.techiedelight.com/trie-implementation-insert-search-delete/)
 - [ ] [Memory efficient Trie Implementation using Map | Insert, Search and Delete](http://www.techiedelight.com/memory-efficient-trie-implementation-using-map-insert-search-delete/)
 - [ ] [Longest Common Prefix in given set of strings (using Trie)](http://www.techiedelight.com/longest-common-prefix-given-set-strings-using-trie/)
@@ -484,11 +520,15 @@
 - [ ] [Find maximum occurring word in given set of strings](http://www.techiedelight.com/find-maximum-occurring-word-given-set-strings/)
 - [ ] [Find first k maximum occurring words in given set of strings](http://www.techiedelight.com/find-first-k-maximum-occurring-words-given-set-strings/)
 - [ ] [Find Duplicate rows in a binary matrix](http://www.techiedelight.com/find-duplicate-rows-binary-matrix/)
+
+### Greedy
 - [ ] [Activity Selection Problem](http://www.techiedelight.com/activity-selection-problem/)
 - [ ] [Huffman Coding](http://www.techiedelight.com/huffman-coding/)
 - [ ] [Shortest Superstring Problem](http://www.techiedelight.com/shortest-superstring-problem/)
 - [ ] [Job Sequencing Problem with Deadlines](http://www.techiedelight.com/job-sequencing-problem-deadlines/)
 - [ ] [Greedy coloring of graph](http://www.techiedelight.com/greedy-coloring-graph/)
+
+### Puzzles
 - [ ] [Clock angle problem — Find angle between hour and minute hand](http://www.techiedelight.com/angle-between-hour-minute-hand/)
 - [ ] [Add two numbers without using addition operator | 5 methods](http://www.techiedelight.com/add-two-numbers-without-using-addition-operator/)
 - [ ] [Generate power set of a given set](http://www.techiedelight.com/generate-power-set-given-set/)
