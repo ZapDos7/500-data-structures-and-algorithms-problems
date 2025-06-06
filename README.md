@@ -511,5 +511,5 @@
 
 
 <!-- progress:start -->
-**Progress: calculating...**
+**Progress: 1.01% completed (5/497)**
 <!-- progress:end -->
